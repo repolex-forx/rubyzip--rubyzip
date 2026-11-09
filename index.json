@@ -1,0 +1,11 @@
+{
+  "org": "rubyzip",
+  "repo": "rubyzip",
+  "versions": [
+    {
+      "commit": "3b9c628063068a6a80007f7a4caef477c8bdecf8",
+      "tag": "",
+      "parsed_at": "2026-11-09T17:50:29.040172+00:00"
+    }
+  ]
+}
