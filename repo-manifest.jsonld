@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/rubyzip/rubyzip/commit/3b9c628063068a6a80007f7a4caef477c8bdecf8",
       "git:hexsha": "3b9c628063068a6a80007f7a4caef477c8bdecf8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T17:50:29.039437+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rubyzip/rubyzip/commit/dbc9c3f73d7d97440a83383fa15729e95d183f81",
